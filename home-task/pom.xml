@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project>
-  <repositories>
-    <repository>
-      <id>maven-central</id>
-      <url>http://nexus.k8s.sshevtsov.playpit.by/repository/maven-central/</url>
-    </repository>
-  </repositories>
+
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.mtn.training</groupId>
     <artifactId>ci-training</artifactId>
     <version>1.0</version>
+    <repositories>
+      <repository>
+        <id>maven-central</id>
+        <url>http://nexus.k8s.sshevtsov.playpit.by/repository/maven-central/</url>
+      </repository>
+    </repositories>
 </project>
