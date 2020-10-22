@@ -2,7 +2,7 @@
 <project>
   <repositories>
     <repository>
-      <id>maven-group</id>
+      <id>maven-central</id>
       <url>http://nexus.k8s.sshevtsov.playpit.by/repository/maven-central/</url>
     </repository>
   </repositories>
