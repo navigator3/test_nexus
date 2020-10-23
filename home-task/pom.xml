@@ -24,10 +24,5 @@
       </plugin>
     </plugins>
   </build>
-    <repositories>
-      <repository>
-        <id>maven-central</id>
-        <url>http://nexus.k8s.sshevtsov.playpit.by/repository/maven-central/</url>
-      </repository>
-    </repositories>
+
 </project>
